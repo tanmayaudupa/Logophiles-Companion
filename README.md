@@ -1,7 +1,7 @@
 # Logophiles-Companion
 A Customized Vocabulary Assistant
 
-Imagine the arduous task of pausing a video everytime you hear a "complex" work and searching up its meaning on the internet. Wouldn't it be a lot easier to automate this process ,but at the same time ensure that you learn the word and its usage.
+Imagine the arduous task of pausing a video everytime you hear a "complex" work and searching up its meaning online or in a dictionary. Wouldn't it be a lot easier to automate this process ,but at the same time ensure that you learn the word and its usage.
 Logophiles' Companion does that very thing for you. It tags meanings to "Non Trivial" words which occur in a video. 
 
 Quick Start
