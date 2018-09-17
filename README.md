@@ -1,6 +1,3 @@
-|py-version|
-.. |py-version| image:: https://2.bp.blogspot.com/-SFnRtWBHeBs/WbJLnCkPPYI/AAAAAAAA9GU/Eac2PpzMxDMgLOx9H0Y8p9DgZKS47jwFQCLcBGAs/s1600/Python_logo_and_wordmark.svg.png
-    :target: https://pypi.python.org/pypi/batavia
 # Logophiles-Companion
 A Customized Vocabulary Assistant
 
