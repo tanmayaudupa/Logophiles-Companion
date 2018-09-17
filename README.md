@@ -1,8 +1,3 @@
-
-=======
-Logophiles-Companion
-=======
-
 # Logophiles-Companion
 A Customized Vocabulary Assistant
 
