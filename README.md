@@ -2,10 +2,7 @@
 =======
 Logophiles-Companion
 =======
-|py-version|
-.. |py-version| image:: https://img.shields.io/pypi/pyversions/batavia.svg
-    :target: https://pypi.python.org/pypi/batavia
-    
+
 # Logophiles-Companion
 A Customized Vocabulary Assistant
 
