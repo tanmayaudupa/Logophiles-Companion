@@ -12,6 +12,8 @@ The task of pausing a video everytime you hear a complex words and searching up 
 Quick Start
 ---------------
 
+![Introduction](introduction.gif)
+
 Drag and drop the subtitle file in the window titled `dragdropinterface.py` by running the script.
 The old subtitle file has now been replaced by a new subtitle file containing meanings to those non-trivial words.
 Add the new subtitle file in the video player of your choice. 
