@@ -7,7 +7,7 @@
 
 
 The task of pausing a video everytime you hear a complex words and searching up its meaning is both arduous and time consuming. Wouldn't it be a lot easier to automate this process, but at the same time ensuring that you learn the word and its usage.
-*Logophiles Companion* is a Vocabulary Learning assistant which annotates non-trivial words with their corresponding definitions on a real time basis as it occurs in a video. Every tough word which comes up frequently assumes the user to have learned its meaning and usage and becomes trivial over time. The model makes use of an Artificial Neural Net to classify words based on its complexity and uses wordnet to get the meanings.
+*Logophiles Companion* is a Vocabulary Learning assistant which annotates non-trivial words with their corresponding definitions on a real time basis as it occurs in a video. Every tough word which comes up frequently assumes the user to have learned its meaning and usage and becomes trivial over time. The model makes use of an Artificial Neural Net to classify words based on its complexity and uses wordnet to get their meanings.
 
 Quick Start
 ---------------
