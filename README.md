@@ -14,6 +14,21 @@ Quick Start
 
 ![Introduction](introduction.gif)
 
+
+Downloading and Installing
+----
+
+1. Clone the code repositories
+```
+ $ git clone https://github.com/tanmayaudupa/Logophiles-Companion 
+ $ cd Logophiles-Companion
+ ```
+2. Run `dragdropinterface.py`.
+3. Minimize pop up tab to see interface window.
+4. Drop subtitle file into the above window.
+5. The old subtitle file has been replaced.
+6. Add it as subtitle file through the video viewer of your choice.
+
 Drag and drop the subtitle file in the window titled `dragdropinterface.py` by running the script.
 The old subtitle file has now been replaced by a new subtitle file containing meanings to those non-trivial words.
 Add the new subtitle file in the video player of your choice. 
